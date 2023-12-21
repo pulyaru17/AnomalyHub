@@ -1,15 +1,9 @@
 ﻿using Exiled.Events.EventArgs.Server;
 using System;
-using Exiled.API.Features.Roles;
-using Exiled.Events.Handlers;
 using MEC;
-using PlayerRoles;
-using PlayerStatsSystem;
 using Respawning;
 using UnityEngine;
 using Cassie = Exiled.API.Features.Cassie;
-using Event = Exiled.Events.Features.Event;
-using HumanRole = PlayerRoles.HumanRole;
 using Map = Exiled.API.Features.Map;
 using Server = Exiled.API.Features.Server;
 
