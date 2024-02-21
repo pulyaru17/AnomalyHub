@@ -24,10 +24,6 @@ namespace AnomalyHub
                     Server.FriendlyFire = true;
                     Log.Info("FF is now opened");
                 }
-                else
-                {
-                    return;
-                }
             }
             catch (Exception e)
             {
@@ -90,10 +86,6 @@ namespace AnomalyHub
                     {
                         Server.FriendlyFire = false;
                         Log.Info("FF is now closed");
-                    }
-                    else
-                    {
-                        return;
                     }
                 }
                 Map.ChangeLightsColor(Color.red);
