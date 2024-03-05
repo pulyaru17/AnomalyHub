@@ -1,4 +1,5 @@
-! [All new releases](https://github.com/Treaxy/AnomalyHub/releases)
+[(https://img.shields.io/github/downloads/Treaxy
+/AnomalyHub/total.svg)]! [All new releases](https://github.com/Treaxy/AnomalyHub/releases) !
 
 # İnstallition:
 
